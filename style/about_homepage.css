@@ -1,3 +1,7 @@
+body {
+    background-color: rgba(249, 243, 224 0.3);
+}
+
 p {
   padding: 20px;
   margin: 20px;
@@ -22,4 +26,6 @@ p {
   margin-top: 30px;
   display: flex;
   justify-content: center;
+}
+
 }
